@@ -1,32 +1,35 @@
 # ckcore
 
 ## 项目描述
+
 cesium 功能库
 
 ## 开始时间
-2023年7月16日 18点01分
+
+2023 年 7 月 16 日 18 点 01 分
 
 ## 相关资源
+
 项目管理工具： [tapd](https://www.tapd.cn/51936380/board/index?board_id=1151936380001000002&board_type=standard&view_type=standard-board&utm_source=gold_browser_extension)
 
-## git仓库地址
-
+## git 仓库地址
 
 ## 项目环境
+
 运行环境
-+ node  16.15.0
-+ pnpm 6.11.0 
+
+- node 16.15.0
+- pnpm 6.11.0
 
 开发工具
-+ idea 2023.1.4
+
+- idea 2023.1.4
 
 ## 技术栈
 
-| 库名称    | 文档地址 | 描述        |
-|--------|------|-----------|
-| rollup |  https://www.rollupjs.com/    | 前端工程化打包工具 |
-
-
+| 库名称 | 文档地址                  | 描述               |
+| ------ | ------------------------- | ------------------ |
+| rollup | https://www.rollupjs.com/ | 前端工程化打包工具 |
 
 ## 代码提交规范
 
@@ -59,4 +62,3 @@ git commit -m "feat(login): 登录页添加logo"
 
 3. subject 是必填项，这次提交的日志信息，提交日志必须有意义。
 ```
-
